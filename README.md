@@ -2,11 +2,11 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-bowenduanmu.git
 
-On Heroku: https://jpa03-bowenduanmu.herokuapp.com/
+On Heroku: https://jpa03-bowenduanmu.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-bowenduanmu
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-bowenduanmu/branch/main/graph/badge.svg?token=Y9huWvrqnN)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-bowenduanmu)
 
 
 ## Integrations
