@@ -1,12 +1,6 @@
 # jpa03-bowenduanmu
 
-
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s21/jpa03-cgaucho
-
-Repo: https://ucsb-cs156-s21/STARTER-jpa03
+Repo: https://github.com/ucsb-cs156-s21/jpa03-bowenduanmu.git
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
